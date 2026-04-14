@@ -25,7 +25,7 @@ AI-powered receipt validation system
 ## Team Structure
 - **Dev 1: Ahmed Hasan**: FrontEnd Engineering
 - **Dev 2: Shawn Nuguid**: AI/ML Integration
-- **Dev 3: Tahmid Ehsan**: Core API & Database Management
+- **Dev 3: Tahmid Ehsan**: Backend Engineering & Database Management
 
 ## Documentation
 - [API Documentation](./docs/api/)
